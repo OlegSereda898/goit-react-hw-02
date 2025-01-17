@@ -1,0 +1,8 @@
+.options {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: row;
+  gap: 7px;
+  margin-bottom: 20px;
+}
